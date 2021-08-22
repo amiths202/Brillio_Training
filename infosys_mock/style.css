@@ -31,7 +31,7 @@ nav a {
 }
 
 .section-2 {
-  height: 60rem;
+  height: 56rem;
   /* flex-wrap: wrap;
   display: flex; */
   background: rgb(223, 153, 38);
@@ -42,15 +42,29 @@ img {
 }
 
 .section-3 {
+  height: 56rem;
   background: rgb(15, 159, 250);
 }
+
+.section-4 {
+  height: 56rem;
+  background: rgb(150, 53, 150);
+}
+
 .caption-1 {
   position: relative;
-  transform: translate(0%, -100%) !important;
+  transform: translate(0%, -130%) !important;
   width: auto;
 }
 
 .caption-2 {
   position: relative;
-  transform: translate(0px, -30%) !important;
+  transform: translate(100%, -160%) !important;
+  width: 50%;
+  height: 50%;
+}
+
+.caption-3 {
+  position: relative;
+  transform: translate(0%, -130%) !important;
 }
