@@ -1,0 +1,56 @@
+nav {
+  background: rgb(1, 180, 144);
+}
+
+nav a {
+  color: white;
+  text-decoration: white;
+}
+
+.slider {
+  min-width: 100%;
+  /* position: absolute; */
+  right: 0;
+  width: auto !important;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translate(0px, -30%) !important;
+  width: auto;
+}
+
+.h2-heading {
+  font-size: 70px;
+  font-weight: 500;
+  font-family: "Tungsten A", "Tungsten B", "Khand", sans-serif;
+  line-height: 70px;
+}
+
+.section-2 {
+  height: 60rem;
+  /* flex-wrap: wrap;
+  display: flex; */
+  background: rgb(223, 153, 38);
+}
+
+img {
+  display: block;
+}
+
+.section-3 {
+  background: rgb(15, 159, 250);
+}
+.caption-1 {
+  position: relative;
+  transform: translate(0%, -100%) !important;
+  width: auto;
+}
+
+.caption-2 {
+  position: relative;
+  transform: translate(0px, -30%) !important;
+}
